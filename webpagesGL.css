@@ -15,8 +15,4 @@ color: #FFFFFF;
 .table-border {
     border: 1px solid #FFFFFF;
 }
-
-#photo-resize
-    max-width: 250px;
-	max-height: 300px;
 }
